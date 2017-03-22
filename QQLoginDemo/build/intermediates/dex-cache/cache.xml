@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\QQLoginDemo\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1_2c527c4440416e6d49f66ae43b29191fe5358223.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\QQLoginDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\QQLoginDemo\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1_64b68eb5bfd5f398bdd27bd8cbc897d62a624751.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\QQLoginDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\QQLoginDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.1.1_aaab3a3643e38e2b0ef2016ab61fdaa9cb43620b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\QQLoginDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\QQLoginDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.1.1_c9568cecf6f91836b93542df2c02e38f0079fd06.jar" />
+    </item>
+
+</items>
