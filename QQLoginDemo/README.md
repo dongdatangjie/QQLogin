@@ -1,1 +1,1 @@
-一个模拟QQ登陆的界面
+This is an app which UI designed by QQ
